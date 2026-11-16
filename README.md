@@ -76,7 +76,7 @@ Quando o IPCA acumulado em 12 meses passou de 10% em 2021–2022, o Banco Centra
 
 ## 📚 Fonte dos dados
 
-Banco Central do Brasil — Sistema Gerenciador de Séries Temporais (SGS): séries 4189, 13522, 20539 e 21082.
+Banco Central do Brasil - Sistema Gerenciador de Séries Temporais (SGS): séries 4189, 13522, 20539 e 21082.
 
 ---
-Feito por **Murilo Fidelis** — Ciência da Computação, Mackenzie
+Feito por **Murilo Fidelis** - Ciência da Computação, Mackenzie
